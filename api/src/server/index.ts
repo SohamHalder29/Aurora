@@ -8,4 +8,4 @@ app.get('/', (req:Request, res:Response)=>{
     res.send("<h1>Soham Express</h1>")
 })
 
-app.listen(3000, 'localhost', ()=>{})
+app.listen(3000, ()=>{})
