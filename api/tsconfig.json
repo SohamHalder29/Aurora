@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "moduleDetection": "auto",
+    "moduleResolution": "Bundler",
+    "target": "ESNext",
+    "traceResolution": true,
+    "strict": true
+  }
+}
